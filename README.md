@@ -1,2 +1,1 @@
-# project2
-project for course Git
+文雅的蜗牛
